@@ -1,0 +1,2 @@
+ERROR - Have you try to divide a number by zero
+
